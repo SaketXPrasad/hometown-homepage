@@ -17,7 +17,7 @@ Here's how the **Hometown Homepage – Kolkata** looks:
 ## 🚀 Getting Started  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/kolkata-hometown-homepage.git  
+   git clone https://github.com/SaketXPrasad/hometown-homepage.git  
    ```  
 2. **Navigate into the project folder:**  
    ```bash
